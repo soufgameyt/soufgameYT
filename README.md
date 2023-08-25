@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soufgameYT
+- 👋 Hi, I’m @ihatefortnitecuziambad
 - 👀 I’m interested in Roblox exploiting and Lua
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on locuslol
