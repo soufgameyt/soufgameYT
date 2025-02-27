@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ihatefortnitecuziambad
-- 👀 I’m interested in Roblox exploiting and Lua
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on locuslol
-- 📫 How to reach me discord :soufgame_ and if i get my account back soufgame without _
+- 👋 Hi, I’m @soufgameyt!
+- 👀 I’m interested in Supercell Reverse Engineering!
+- 🌱 I’m currently learning C#
+- 💞️ The programming languages i know are : Python , JS , Html , CSS 
+- 📫 How to reach me :
+- Discord : soufgame__
+- Telegram : @soufgamev2
 
 <!---
 soufgameYT/soufgameYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
