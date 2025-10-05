@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soufiane and I'm a Reverse Engineer, from Belgium</h2>
+<h2 align="left">Hi 👋! My name is Soufiane and I'm a Reverse Engineer from Belgium</h2>
 
 ###
 
